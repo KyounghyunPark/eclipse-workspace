@@ -1,0 +1,9 @@
+package dao;
+
+public class Dept {
+	private int depno;
+	private String dname;
+	private String dloc;
+	
+	
+}

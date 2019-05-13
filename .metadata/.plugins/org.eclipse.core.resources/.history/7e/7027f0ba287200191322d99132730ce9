@@ -1,0 +1,2 @@
+create table student(id integer not null primary key auto_increment, name varchar(30), tel varchar(30), age integer);
+

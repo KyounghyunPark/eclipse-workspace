@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/hareton/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2779522218.index
+3037870361.index
+1267789625.index
+2130071003.index
+2079462511.index

@@ -1,0 +1,15 @@
+package student2;
+
+public class Student2Main {
+	public static void main(String[] args) {
+		StudentDao studentDao = new StudentDao();
+		
+		// insert
+		Student student = new Student("kim", "302-1029", 13);
+		studentDao.insertRow(student);
+		
+		// select all
+		for (Student s : studentDao.selectAll())
+			System.out.println(s);
+	}
+}

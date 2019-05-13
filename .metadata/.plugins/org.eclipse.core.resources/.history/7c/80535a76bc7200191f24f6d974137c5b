@@ -1,0 +1,8 @@
+package student2;
+
+public class Student {
+	private int id;
+	private String name;
+	private String tel;
+	private int age;
+}

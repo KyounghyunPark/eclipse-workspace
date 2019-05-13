@@ -1,0 +1,2537 @@
+!SESSION 2019-05-08 14:52:11.263 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-08 14:52:23.842
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-08 14:52:25.973
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-05-08 21:18:34.672 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-08 21:18:37.351
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-08 21:18:40.114
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-05-08 21:18:56.196 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-08 21:18:58.950
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-08 21:19:01.859
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:20:10.359
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:20:10.364
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-08 21:20:25.125
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:22:11.091
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:22:11.094
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:22:12.294
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:22:12.298
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:22:13.902
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:22:13.904
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:23:54.820
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:23:54.822
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:30:15.210
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:30:15.211
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:31:30.381
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:31:30.383
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:31:52.400
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:31:52.402
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:32:19.525
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:32:19.528
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:32:20.861
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:32:20.863
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:33:47.648
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:33:47.650
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:34:12.526
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:34:12.527
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-08 21:40:57.088
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:40:57.540
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:40:57.543
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:40:58.606
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:40:58.607
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:41:58.056
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:41:58.058
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:42:35.052
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:42:35.054
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:42:40.644
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:42:40.646
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:42:50.193
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:42:50.194
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:43:19.491
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:43:19.493
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:43:25.659
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:43:25.660
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:43:58.188
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:43:58.189
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:44:14.935
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:44:14.937
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:44:24.833
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:44:24.834
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:45:22.864
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:45:22.865
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:52:49.564
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:52:49.565
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:54:22.428
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:54:22.430
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:55:16.671
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 21:55:16.672
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2019-05-09 10:50:25.870 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-09 10:50:28.935
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-09 10:50:32.278
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 10:59:10.777
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 10:59:10.784
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 10:59:15.611
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 10:59:15.617
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui.navigator 4 0 2019-05-09 10:59:42.304
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/java [in mybatis]
+  <default> (not open)
+  dao (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2019-05-09 10:59:42.307
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/java [in mybatis]
+  <default> (not open)
+  dao (...)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 10:59:42.554
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 10:59:42.556
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 10:59:57.763
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 10:59:57.766
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:00:13.164
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:00:13.165
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:02:15.877
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:02:15.881
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:02:17.088
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:02:17.091
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:02:19.682
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:02:19.685
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:03:19.443
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:03:19.453
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:06:45.336
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:06:45.338
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:16:23.205
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:16:23.207
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:36:09.526
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:36:09.528
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:36:42.421
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:36:42.423
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:44:55.985
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:44:55.987
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:46:11.546
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:46:11.548
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:46:40.066
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:46:40.068
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:47:02.438
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:47:02.441
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:47:21.443
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:47:21.445
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-09 11:49:00.243
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:50:21.515
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:50:21.517
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:50:26.358
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:50:26.361
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:52:07.796
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:52:07.799
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:55:31.717
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:55:31.719
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:56:02.223
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 11:56:02.225
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:03:24.410
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:03:24.411
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:03:38.927
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:03:38.928
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:04:02.930
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:04:02.931
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:07:31.755
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:07:31.756
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:07:43.135
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:07:43.137
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:07:50.162
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:07:50.163
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:08:54.979
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:08:54.981
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:10:40.407
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:10:40.408
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:14:51.607
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:14:51.611
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:15:08.570
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:15:08.572
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:15:50.685
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:15:50.687
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:20:24.075
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:20:24.077
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:20:52.913
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:20:52.914
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:24:49.977
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:24:49.978
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:25:10.468
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 12:25:10.470
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2019-05-09 15:59:56.864 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-09 15:59:59.579
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-09 16:00:02.515
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:07:30.747
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:07:30.751
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:08:23.495
+!MESSAGE The POM for org.mybatis:mybatis:jar:5.1.40 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:08:23.817
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:08:23.819
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:08:24.799
+!MESSAGE The POM for org.mybatis:mybatis:jar:5.1.40 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-09 16:08:25.469
+!MESSAGE Could not download sources for org.mybatis:mybatis:5.1.40
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis:mybatis:jar:sources:5.1.40
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.mybatis:mybatis:jar:sources:5.1.40
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-09 16:08:25.470
+!MESSAGE Could not resolve artifact org.mybatis:mybatis:jar:sources:5.1.40
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-09 16:08:25.470
+!MESSAGE Missing org.mybatis:mybatis:jar:sources:5.1.40
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:08:55.958
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:08:55.960
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:08:57.143
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:08:57.144
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-09 16:09:09.432
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:09:30.135
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:09:30.137
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:09:31.291
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:09:31.292
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:13:32.481
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:13:32.482
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:25:31.640
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:25:31.643
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:26:11.968
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:26:11.970
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:27:27.194
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:27:27.195
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 0 2019-05-09 16:28:10.690
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.StackOverflowError
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+	at org.eclipse.swt.widgets.Widget.gtk_widget_get_window(Widget.java:1882)
+	at org.eclipse.swt.widgets.Control.setBackgroundSurface(Control.java:5106)
+	at org.eclipse.swt.widgets.Control.gtk_style_updated(Control.java:4171)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2162)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6029)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_widget_realize(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_widget_realize(GTK.java:8849)
+!SESSION 2019-05-09 16:28:29.873 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-09 16:28:32.717
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-09 16:28:34.925
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:29:53.459
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:29:53.471
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:30:33.284
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:30:33.289
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:35:26.934
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:35:26.936
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-09 16:35:42.777
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:36:07.839
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:36:07.840
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:36:52.365
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:36:52.369
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:38:22.103
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:38:22.105
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:38:55.897
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:38:55.899
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:39:05.652
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:39:05.654
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:39:28.990
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:39:28.991
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:40:12.143
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:40:12.145
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:40:43.407
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:40:43.408
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:41:21.096
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 16:41:21.097
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:00:46.422
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:00:46.423
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:01:05.687
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:01:05.689
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:01:20.043
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:01:20.044
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:02:05.520
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:02:05.523
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:02:21.557
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:02:21.559
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-09 17:03:25.459
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:05:28.122
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:05:28.124
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:06:01.022
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:06:01.023
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:08:27.051
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:08:27.052
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:09:11.174
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:09:11.175
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:11:07.087
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:11:07.088
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:11:13.445
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:11:13.446
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:23:47.082
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:23:47.083
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:24:54.373
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:24:54.375
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:25:18.346
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:25:18.347
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:26:50.970
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:26:50.972
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:27:24.405
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:27:24.406
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:27:51.768
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:27:51.770
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:28:06.563
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:28:06.564
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:29:12.789
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:29:12.790
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:29:19.261
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:29:19.263
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:30:11.012
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:30:11.013
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:31:34.907
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:31:34.908
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:32:44.591
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:32:44.592
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:33:00.888
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:33:00.889
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:34:04.415
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:34:04.417
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:35:02.991
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:35:02.992
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:35:21.589
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:35:21.590
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:35:51.181
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-09 17:35:51.182
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2019-05-10 09:24:36.097 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-10 09:24:39.150
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-10 09:24:41.728
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:25:38.293
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:25:38.296
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-10 09:28:19.076
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:29:03.941
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:29:03.944
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:29:05.086
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:29:05.087
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:40:03.219
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:40:03.221
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:41:36.978
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:41:36.980
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:42:17.824
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:42:17.825
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:42:22.029
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:42:22.031
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:46:18.539
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:46:18.542
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:46:35.291
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:46:35.293
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:47:25.425
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:47:25.427
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:47:59.879
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:47:59.880
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:48:37.931
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:48:37.933
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:49:07.875
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:49:07.876
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:49:43.442
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:49:43.444
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:49:57.817
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:49:57.819
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:50:52.471
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:50:52.472
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:54:43.247
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:54:43.249
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:55:19.277
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:55:19.278
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:55:38.989
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:55:38.990
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:55:55.378
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:55:55.379
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:56:11.136
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:56:11.138
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-10 09:56:40.267
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:57:01.670
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:57:01.671
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:57:23.371
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:57:23.372
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:57:43.021
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 09:57:43.022
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:26:27.328
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:26:27.329
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:26:41.353
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:26:41.353
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:27:14.260
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:27:14.261
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:34:24.641
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:34:24.642
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:35:03.696
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:35:03.697
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:36:59.609
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:36:59.610
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:37:38.140
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:37:38.141
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:37:59.840
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:37:59.841
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:38:50.042
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:38:50.044
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:39:52.783
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:39:52.784
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:43:10.397
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:43:10.398
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:45:04.676
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:45:04.677
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:45:30.753
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:45:30.754
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:45:41.562
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:45:41.564
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:46:37.861
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:46:37.862
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:47:19.231
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:47:19.232
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:47:38.826
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:47:38.827
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:48:06.116
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:48:06.117
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:49:08.454
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:49:08.456
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:49:30.056
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:49:30.057
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:50:26.919
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:50:26.920
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:51:10.448
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:51:10.449
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:51:32.363
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:51:32.365
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:56:52.277
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:56:52.278
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:57:42.192
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:57:42.193
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:58:30.937
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 10:58:30.939
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 14:39:19.612
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 14:39:19.612
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 14:39:29.628
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 14:39:29.629
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:13:46.508
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:13:46.509
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:15:40.592
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:15:40.593
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:18:05.916
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:18:05.917
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:20:53.810
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:20:53.811
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:21:14.846
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:21:14.855
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:21:45.734
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:21:45.736
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:22:25.938
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:22:25.939
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:22:35.491
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:22:35.493
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:36:24.086
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:36:24.087
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:36:57.596
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:36:57.598
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:41:52.752
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:41:52.753
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:41:55.164
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:41:55.166
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:42:03.818
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:42:03.819
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:53:48.991
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:53:48.992
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:54:19.344
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:54:19.345
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:54:22.670
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:54:22.671
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:54:43.057
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:54:43.058
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:55:25.609
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:55:25.610
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:56:49.114
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:56:49.115
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:57:02.236
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:57:02.237
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:57:23.793
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:57:23.794
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:58:43.939
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:58:43.940
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:59:34.207
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:59:34.208
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:59:37.745
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 15:59:37.747
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:00:33.538
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:00:33.539
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:01:04.446
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:01:04.447
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:01:07.264
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:01:07.266
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:04:11.478
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:04:11.479
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:04:58.055
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:04:58.057
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:06:13.128
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:06:13.129
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:16:07.613
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:16:07.614
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:16:20.645
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:16:20.646
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:16:37.152
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:16:37.153
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:16:43.368
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:16:43.369
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:17:33.385
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:17:33.386
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:18:15.280
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:18:15.281
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:21:05.331
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-10 16:21:05.332
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2019-05-13 07:56:05.197 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-13 07:56:08.410
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-13 07:56:11.000
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-13 08:01:11.960
+!MESSAGE Could not download sources for xmlpull:xmlpull:1.1.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpull:jar:sources:1.1.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing xmlpull:xmlpull:jar:sources:1.1.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-13 08:01:11.961
+!MESSAGE Could not resolve artifact xmlpull:xmlpull:jar:sources:1.1.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-13 08:01:11.961
+!MESSAGE Missing xmlpull:xmlpull:jar:sources:1.1.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-13 08:02:21.517
+!MESSAGE Could not download sources for org.keycloak:keycloak-spring-boot-starter:3.4.3.Final
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.keycloak:keycloak-spring-boot-starter:jar:sources:3.4.3.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.keycloak:keycloak-spring-boot-starter:jar:sources:3.4.3.Final
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-13 08:02:21.517
+!MESSAGE Could not resolve artifact org.keycloak:keycloak-spring-boot-starter:jar:sources:3.4.3.Final
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-13 08:02:21.517
+!MESSAGE Missing org.keycloak:keycloak-spring-boot-starter:jar:sources:3.4.3.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-13 08:02:44.255
+!MESSAGE Could not download javadoc for xmlpull:xmlpull:1.1.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpull:jar:javadoc:1.1.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing xmlpull:xmlpull:jar:javadoc:1.1.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-13 08:02:44.255
+!MESSAGE Could not resolve artifact xmlpull:xmlpull:jar:javadoc:1.1.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-13 08:02:44.255
+!MESSAGE Missing xmlpull:xmlpull:jar:javadoc:1.1.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-05-13 08:02:44.422
+!MESSAGE Could not download javadoc for org.keycloak:keycloak-spring-boot-starter:3.4.3.Final
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.keycloak:keycloak-spring-boot-starter:jar:javadoc:3.4.3.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.keycloak:keycloak-spring-boot-starter:jar:javadoc:3.4.3.Final
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-05-13 08:02:44.422
+!MESSAGE Could not resolve artifact org.keycloak:keycloak-spring-boot-starter:jar:javadoc:3.4.3.Final
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-05-13 08:02:44.422
+!MESSAGE Missing org.keycloak:keycloak-spring-boot-starter:jar:javadoc:3.4.3.Final

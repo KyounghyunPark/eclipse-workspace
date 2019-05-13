@@ -1,0 +1,42 @@
+package student2;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.List;
+
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+
+public class StudentDao {
+	private SqlSessionFactory sqlSessionFactory;
+	
+	public StudentDao() {
+		InputStream is = null;
+		try {
+		is = Resources.getResourceAsStream("studentConfig.xml");
+		sqlSessionFactory = new SqlSessionFactoryBuilder().build(is);
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (is != null)
+					is.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+	
+	public List<Student> selectAll() {
+		SqlSession session = sqlSessionFactory.openSession();
+		try {
+			return session.selectList("student.selectAll");
+		} finally {
+			session.close();
+		}
+	}
+
+}
+

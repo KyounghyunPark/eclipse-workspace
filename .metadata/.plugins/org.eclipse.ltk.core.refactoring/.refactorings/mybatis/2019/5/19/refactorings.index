@@ -1,0 +1,19 @@
+1557319318024	Move compilation unit
+1557319354919	Delete element
+1557319360495	Delete element
+1557319370047	Delete element
+1557319464707	Delete element
+1557367150014	Delete element
+1557367155458	Delete element
+1557367182370	Move package
+1557367213020	Delete element
+1557369895822	Move file
+1557369999945	Move 'mybatisConfiguration.xml' to 'mybatis'
+1557370022279	Copy file
+1557370041331	Delete element
+1557370327676	Move 'deptMapper.xml' to 'resources'
+1557370531557	Copy file
+1557370562112	Copy file
+1557371263017	Delete element
+1557371270003	Delete element
+1557371334811	Move 'deptMapper.xml' to 'dao'
